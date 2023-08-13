@@ -1,4 +1,8 @@
 # AMSC-Examples
+
+**IMPORTANT NOTE: SInce AY 23-24 I will use the same example repo of my other advanced programming course (advanced Programming for Scientific Computing) also for this course.
+The repository is kept only for students of previous years and it is not read only. New students should use the repository in git@github.com:pacs-course/pacs-examples.git**
+
 The Examples for the course on Advanced Methods for Scientific Computing
 
 
